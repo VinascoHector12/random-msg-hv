@@ -1,0 +1,24 @@
+{
+  "name": "random-msg-hv",
+  "version": "1.0.0",
+  "description": "Random string messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VinascoHector12/random-msg-hv.git"
+  },
+  "keywords": [],
+  "author": "Hector Vinasco <hectorvinasco12@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VinascoHector12/random-msg-hv/issues"
+  },
+  "homepage": "https://github.com/VinascoHector12/random-msg-hv#readme",
+  "bin": {
+    "random-msg-hv": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
